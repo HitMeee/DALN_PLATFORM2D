@@ -4,15 +4,9 @@ using UnityEngine;
 
 public class GameContaint : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public InputController inputController;
+    public void Init()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        inputController.Init();
     }
 }

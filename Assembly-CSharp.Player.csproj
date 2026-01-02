@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GamePlayerController.cs" />
+    <Compile Include="Assets\Scripts\CheckJump.cs" />
     <Compile Include="Assets\Scripts\InputController.cs" />
     <Compile Include="Assets\Scripts\GameScene.cs" />
     <Compile Include="Assets\Scripts\GameContaint.cs" />
