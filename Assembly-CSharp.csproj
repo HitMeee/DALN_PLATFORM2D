@@ -61,9 +61,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GamePlayerController.cs" />
+    <Compile Include="Assets\Scripts\Scorpion.cs" />
     <Compile Include="Assets\Scripts\CheckJump.cs" />
     <Compile Include="Assets\Scripts\InputController.cs" />
     <Compile Include="Assets\Scripts\GameScene.cs" />
+    <Compile Include="Assets\Scripts\EnemyMove.cs" />
+    <Compile Include="Assets\Scripts\Snail.cs" />
+    <Compile Include="Assets\Scripts\EnemyBase.cs" />
+    <Compile Include="Assets\Scripts\Mushroom.cs" />
     <Compile Include="Assets\Scripts\GameContaint.cs" />
   </ItemGroup>
   <ItemGroup>
